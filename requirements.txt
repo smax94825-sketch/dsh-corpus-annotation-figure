@@ -1,0 +1,7 @@
+# 唯一硬依赖：位图渲染 + 字体实例控制
+Pillow>=10.0
+
+# 说明：
+# - SVG 输出由内置渲染器直接写出，不需要 cairosvg。
+# - PDF 输出借用本机 Chrome / Edge 的 headless print-to-pdf，不引入额外 Python 包。
+# - 测试用标准库 unittest，无需 pytest。
