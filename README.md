@@ -8,11 +8,13 @@
 | **`corpus-annotation-figure`** | 一句话的四层标注结果图（分词 / 词性 / 命名实体 BIO / 依存句法）+ CoNLL-U 表 + JSON 记录 + 标签集，并导出可训练的 `.conllu` / `.json` | 语料库研究、NER / 句法分析论文的示例图、标注手册、数据集文档 |
 | **`academic-figure`** | 指标卡 + 结果表 + 解读卡；方法流程 / 技术路线图；指标数字条 | 实验章主结果表、消融对比、方法总览图、答辩 PPT |
 
-![语料标注示例](docs/images/corpus-annotation.png)
+![语料标注示例]<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/769db94d-a5ff-4812-81cb-0b4904111700" />
 
-![实验结果表](docs/images/results-table.png)
+![实验结果表]<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2857137a-c7a5-4b6d-a778-6fc40e433587" />
 
-![方法流程图](docs/images/flow-diagram.png)
+
+![方法流程图]<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/18bb7bdf-70eb-490f-a3d2-722e5bb2bf9b" />
+
 
 ---
 
